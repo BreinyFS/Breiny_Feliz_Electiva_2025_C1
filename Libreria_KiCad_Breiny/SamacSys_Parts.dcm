@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ADUM4160BRWZ
+D Full/Low Speed 5 kV USB Digital Isolator
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000149826.pdf
+$ENDCMP
+#
+$CMP ADUM5000ARWZ
+D Switching Voltage Regulators 2.5kV DC/DC Cnvtr IC
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM5000.pdf
+$ENDCMP
+#
+$CMP GRM21BR71H104KA01L
+D Ceramic Capacitors MLCC 0805 100nF 50V Murata 0805 GRM 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ??10% SMD
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71H104KA01-01.pdf
+$ENDCMP
+#
+$CMP GRM21BR61C106KE15L
+D Ceramic  SMT capacitor 10uF 16Vdc Murata 0805 GRM 10uF Ceramic Multilayer Capacitor, 16 V dc, +85C, X5R Dielectric, +/-10% SMD
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61C106KE15-01A.pdf
+$ENDCMP
+#
+$CMP 87520-0010BLF
+D USB 2.0, Input Output Connector, USB Type A, Standard, Right Angle, Through Hole, Single Decks, 4 Positions
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/87520.pdf
+$ENDCMP
+#
+$CMP USB-B-S-F-B-TH-R
+D USB TYPE B 2.0 BLACK T/H
+K
+F http://suddendocs.samtec.com/prints/usb-b-s-x-x-th-x-xx-mkt.pdf
+$ENDCMP
+#
+$CMP ERJ-6GEY0R00V
+D RESISTOR, 0805 0 Ohm +/-5% 0.125 W
+K
+F http://componentsearchengine.com/Datasheets/1/ERJ-6GEY0R00V.pdf
+$ENDCMP
+#
+$CMP ERJ-6ENF1002V
+D Thick Film Resistors - SMD 0805 10Kohms 1% AEC-Q200
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C84.pdf
+$ENDCMP
+#
+$CMP NUP2202W1T2G
+D Low Capacitance (3 pF Maximum Between I/O Lines); ESD Rating of Class 3B (Exceeding 8 kV) per Human Body Model and Class C (Exceeding 400 V) per Machine Model; Protection for the Following IEC Standards:IEC 6100042 (ESD) 15 kV (air) 8 kV (contact)IEC 6100044 (EFT) 40 A (5/50 ns)IEC 6100045 (Lightning) 23 A (8/20 s); UL Flammability Rating of 94 V-0; This is a Pb-Free Device
+K
+F https://www.onsemi.com/pub/Collateral/NUP2202W1-D.PDF
+$ENDCMP
+#
+#End Doc Library
